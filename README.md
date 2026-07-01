@@ -1,12 +1,12 @@
-# Eye Mouse Detector
+ # 👁️ Eye Mouse Detector
 
-An AI-based mouse controller that uses eye movements and blink detection.
+An AI-powered eye-controlled mouse using Python, OpenCV, MediaPipe, and PyAutoGUI.
 
 ## Features
-- Eye tracking
-- Cursor movement
-- Blink detection
-- Real-time webcam processing
+•⁠  ⁠👀 Eye tracking
+•⁠  ⁠🖱️ Cursor movement
+•⁠  ⁠👁️ Blink detection
+•⁠  ⁠⚡ Real-time control
 
 ## Technologies
 - Python
@@ -20,3 +20,6 @@ An AI-based mouse controller that uses eye movements and blink detection.
 pip install -r requirements.txt
 python main.py
 ```
+## Preview
+
+![Project Screenshot](assets/screenshot.png)

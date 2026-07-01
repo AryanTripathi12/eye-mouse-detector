@@ -23,3 +23,9 @@ python main.py
 ## Preview
 
 ![Project Screenshot](assets/screenshot.png)
+
+## 🎥 Demo Video
+
+[![Demo](assets/screenshot.png)](demo/demo.mp4)
+
+*Click the image above to play the demo video.*

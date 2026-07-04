@@ -1,6 +1,6 @@
- # 👁️ Eye Mouse Detector
+# 👁️ Eye Mouse Detector
 
-An AI-powered eye-controlled mouse using Python, OpenCV, MediaPipe, and PyAutoGUI.
+An AI-powered eye-controlled mouse using Python, OpenCV, MediaPipe, and PyAutoGUI.by Aryan Tripathi
 
 ## Features
 •⁠  ⁠👀 Eye tracking
